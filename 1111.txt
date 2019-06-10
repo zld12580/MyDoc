@@ -3,3 +3,4 @@ Iam a Doc!
 我再提交一次中文!
 修改了字符集之后再试一次!
 修改记住密码配置!
+git remember password!
